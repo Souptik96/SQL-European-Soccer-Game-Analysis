@@ -2,8 +2,7 @@
 - https://www.kaggle.com/datasets/hugomathien/soccer
 
 ## Data description:
-The ultimate Soccer database for data analysis and machine learning
-What you get:
+The ultimate Soccer database for data analysis and machine learning. What you get:
 
 - +25,000 matches
 - +10,000 players
